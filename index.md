@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Numeros de Whatsapp para Ventas
 
-Venta 1 wa.link/0uhrta
+Venta 1  [912342068](wa.link/0uhrta)
 
 ```markdown
 Syntax highlighted code block
