@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Numeros de Whatsapp para Ventas
 
-[Whatsapp 912342068](https://wa.link/0uhrta).
+[Whatsapp 912342068](https://wa.link/4ghthx).
 
-[Whatsapp 950907834](https://wa.link/7lle6p).
+[Whatsapp 950907834](https://wa.link/k5zkwf).
 
 ```markdown
 Syntax highlighted code block
